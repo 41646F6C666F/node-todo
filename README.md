@@ -6,11 +6,11 @@
 
   - [Mongoose](https://mongoosejs.com/) (for db connection)
   
-  - [body-parser](https://expressjs.com/en/resources/middleware/body-parser.html) (to read the data from POST who is accessible through req.body)
+  - [body-parser](https://expressjs.com/en/resources/middleware/body-parser.html) (to read the data from POST; who is accessible through req.body)
 
-  - [ejs](https://ejs.co) (templating)
+  - [ejs](https://ejs.co) (for templating)
 
-In order to work, you need to have the file *config/config.json* and need to be like this:
+In order to work, you need to have the file *config/config.json* with your mongodb credentials and need to be formated like this:
 
 ```javascript
 {
