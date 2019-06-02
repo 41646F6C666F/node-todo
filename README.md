@@ -1,6 +1,6 @@
 # Node.js To-Do
 
-> To-Do list project with the MEAN Stack: MongoDB, Express, Node.js, Angular
+> To-Do list project with the MEAN Stack: MongoDB, Express, Node.js, Angular (not yet in this project)
 
 - This project use:
 
